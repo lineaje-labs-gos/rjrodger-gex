@@ -9,11 +9,15 @@
     "expression",
     "regular"
   ],
-  "version": "0.3.0",
+  "version": "0.3.0-lineaje-01",
   "homepage": "https://github.com/rjrodger/gex",
   "author": "Richard Rodger (http://richardrodger.com/)",
   "contributors": [
-    "Richard Rodger (http://richardrodger.com/)"
+    "Richard Rodger (http://richardrodger.com/)",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "license": "MIT",
   "dependencies": {
@@ -22,7 +26,7 @@
   "main": "gex.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rjrodger/gex.git"
+    "url": "https://github.com/lineaje-labs-gos/rjrodger-gex"
   },
   "files": [
     "README.md",
